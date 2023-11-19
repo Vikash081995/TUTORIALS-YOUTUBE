@@ -10,8 +10,9 @@
 // import MuiAutoComplete from "./components/MuiAutoComplete";
 // import MuiLayout from "./components/MuiLayout";
 // import MuiCard from "./components/MuiCard";
+// import MuiAccordion from "./components/MuiAccordion";
 
-import MuiAccordion from "./components/MuiAccordion";
+// import MuiNavbar from "./components/MuiNavbar";
 
 const App = () => {
   return (
@@ -27,7 +28,8 @@ const App = () => {
       {/* <MuiAutoComplete /> */}
       {/* <MuiLayout /> */}
       {/* <MuiCard /> */}
-      <MuiAccordion />
+      {/* <MuiAccordion /> */}
+      {/* <MuiNavbar/> */}
     </div>
   );
 };
